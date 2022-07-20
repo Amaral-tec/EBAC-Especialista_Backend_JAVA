@@ -1,0 +1,12 @@
+Programação Orientada a Objetos
+
+1) A programação orientada a objetos é aquela que utiliza "objetos" em seu código para chamar e executar as funções. 
+Nela vamos ter o conceito de classe, entidade, elementos, atributos, dentre outros. Por exemplo - em um cadastro de 
+funcionários teremos o funcionário (que é um elemento), que faz parte de um setor (outro elemento - "objeto")  - sendo assim - 
+cria-se um relacionamento entre eles.
+
+
+
+Já no desenvolvimento procedural, pensamos em um programa de computador como uma rotina ou sequência lógica, com início e fim determinados. 
+Ela é composta por três tipos de estruturas básicas: sequências (os comandos a serem executados), condições (blocos de decisão) e repetições 
+(sequências que devem ser repetidas até chegar a determinada condição).
