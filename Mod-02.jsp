@@ -5,7 +5,7 @@ Já o Angula é um framework que utiliza HTML e TypeScript para criar a interfac
 desktop e dispositivos móveis. Essa linguagem permite aos desenvolvedores web fazer uso da linguagem de marcação HTML para definir associações de dados, 
 validações, além de response handlers para lidar com as ações do usuário em um formato declarativo que também contribui para essa mesma aceleração. -->
 
-<!-- Exemplo de código JSP --/>
+<!-- Exemplo de código JSP -->
 
 <% out.println("Ola Mundo"); %>
 
